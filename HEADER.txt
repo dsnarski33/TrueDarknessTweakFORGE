@@ -1,0 +1,5 @@
+Licensed under GNU GPL.
+This is a small modification of True Darkness @
+  https://github.com/grondag/darkness and
+  https://www.curseforge.com/minecraft/mc-mods/true-darkness,
+to add config variables to influence the darkness parameters and implement a simple server-side enforcement.
