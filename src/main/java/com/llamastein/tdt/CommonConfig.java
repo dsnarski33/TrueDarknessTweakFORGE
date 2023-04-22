@@ -26,7 +26,7 @@ public class CommonConfig
     private final ConfigOptions configOptions;
     public Options options = null;
 
-    private static final String LANGKEY_CONFIG                  = "config";
+    private static final String LANGKEY_CONFIG  = "config";
 
     public enum Values {
         inOverworld, inNether, inEnd, inDefault, inSkyless, ignoreMoonPhase, useBlockLightOnly, allowGamma, netherFog, endFog, moonSizeData, nightVisionAmt, conduitAmt, enforceClientUsage;
