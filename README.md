@@ -7,4 +7,4 @@ against the current moon brightness. I also added a simple server-side check and
 Can be phased out if ever similar things are added to the referenced mod.
 This would be my first attempt to release something, good luck lol!
 
-[[I give thanks to my Lord and Savior Jesus Christ for setting me free! John 8:36]]
+[Thank you Lord, John 8:36]
