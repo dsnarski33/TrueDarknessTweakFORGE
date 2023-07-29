@@ -12,6 +12,7 @@ issueTrackerURL = ""
     authors = "llamastein"
     description = '''
         Added variables to tweak how dark the world can get, and supports a simple server-side enforcement, etc
+
         [Thank you Lord, John 8:36]
     '''
 
